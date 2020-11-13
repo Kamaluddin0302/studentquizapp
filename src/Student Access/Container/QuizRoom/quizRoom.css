@@ -1,0 +1,12 @@
+._box {
+  text-align: center;
+  padding: 10px !important;
+  margin-bottom: 10px;
+}
+._box:hover{
+    background-color: cornsilk;
+    cursor: pointer;
+}
+._bodySection {
+  margin-top: 150px;
+}

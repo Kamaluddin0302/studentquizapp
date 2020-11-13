@@ -1,0 +1,32 @@
+.email {
+  width: 90%;
+}
+
+.password {
+  width: 90%;
+}
+
+.loginBtn {
+  width: 30%;
+}
+
+.signupText {
+  font-weight: 500;
+}
+._tabbtn {
+  width: 100%;
+}
+/* 
+@media only screen and (max-width: 600px) {
+    ._grid {
+      padding-top: 90px;
+    }
+  } */
+
+
+  @media only screen and (max-width: 600px) {
+    ._tabbtn {
+        font-size: 12px !important;
+    }
+  }
+  
